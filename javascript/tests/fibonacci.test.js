@@ -11,3 +11,4 @@ for (let i = 0; i < 10; ++i) {
 test('outputs the correct number in the sequence at index 28', () => {
   expect(fibonacci(28)).toBe(fibo[28]);
 });
+
